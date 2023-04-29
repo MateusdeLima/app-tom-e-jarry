@@ -1,0 +1,60 @@
+/*Transformando o cursor em Tom que irá pegar o Jarry*/
+
+html {
+    cursor: url(../imagens/tom-pega.png) 30 30, auto;
+}
+
+/*Formulando o cenário*/
+
+body {
+    background-image: url(../imagens/cenario.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+
+}
+
+.painel {
+    position: absolute;
+    width: 190px;
+    padding: 10px;
+    left: 0px;
+    bottom: 0px;
+    border-top: solid 1px #fff;
+    background-color: #fff;
+    opacity: 0.7;
+}
+
+.vidas {
+    float: left;
+}
+
+.cronometro {
+    float: left;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+/*Introdução dos elementos do projeto*/
+.jarry1 {
+    width: 50px;
+    height: 50px;
+}
+
+.jarry2 {
+    width: 70px;
+    height: 70px;
+}
+
+.jarry3 {
+    width: 90px;
+    height: 90px;
+}
+
+/*Classes que definem para onde os jarrys estão olhando*/
+.ladoA {
+    transform: scaleX(1);
+}
+
+.ladoB {
+    transform: scaleX(-1);
+}
