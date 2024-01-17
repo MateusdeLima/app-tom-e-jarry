@@ -1,7 +1,9 @@
 #### <h2>Projeto Game Tom e Jarry<h2/> ####
 
 <p>Em inspiração ao projeto App Mata Mosquisto fornecido pela Udemy venho apresenter minha versão desse projeto,
-o Game Tom e Jarry onde faço uma alusão ao projeto anterior com objetivo de o Tom pegar o Jarry.<p/>
+o Game Tom e Jarry onde faço uma alusão ao projeto anterior com objetivo de o Tom pegar o Jarry.
+Teste por favor: https://mateusdelima.github.io/app-tom-e-jarry/
+<p/>
 
 Exemplos do projeto:
 Tela inicial:
